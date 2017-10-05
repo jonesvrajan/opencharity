@@ -28,7 +28,6 @@ Gulp now watch for changes in your .scss files.
 | `header` |
 | `content` |
 | `hero_section` |
-| `rubberBand` |
 | `event` |
 | `about` |
 | `about_one` |
