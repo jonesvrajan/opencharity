@@ -1,0 +1,33 @@
+name = Opencharity
+description = Theme for Opencharity.
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = css/main.css
+scripts[] = js/superfish.js
+scripts[] = js/supersubs.js
+scripts[] = js/sfmenu.js
+
+scripts[] = js/jquery.flexslider-min.js
+scripts[] = js/main.js
+regions[hero_section]  = Hero Section
+regions[header]         = Header
+regions[content]        = Content
+regions[event]     = Event
+regions[about]     = About Section 
+regions[about_one]     = About Section One
+regions[about_two]     = About Section Two
+regions[about_three]     = About Section Three
+regions[mission_section]     = Mission Section 
+regions[mission_one]     = Mission Section One
+regions[mission_two]     = Mission Section Two
+regions[mission_three]     = Mission Section Three
+regions[member_slider]     = Member Slider Section 
+regions[blog_section]     = Blog Slider Section 
+regions[footer]         = Footer
+
+
+version = "7.x-1.0"
+core = "7.x"
+project = "Opencharity"
+datestamp = "1395414857"
+

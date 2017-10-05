@@ -1,0 +1,28 @@
+a {
+    color: $color-secondary;
+}
+
+.bg-secondary {
+    background: $bg-secondary;
+}
+
+.btn-primary {
+    border: 1px solid $color-secondary;
+    color: $color-secondary !important;
+}
+
+.btn-secondary {
+    background: $bg-btn;
+    color: $bg-primary;
+}
+
+.hero-section {
+    color: $bg-primary;
+}
+
+.menu {
+    li.last {
+        
+        a {color: $color-secondary !important;border: 1px solid $color-secondary !important;}
+    }
+}
