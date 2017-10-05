@@ -15,7 +15,7 @@ For slider section Opencharity uses <a href="http://flexslider.woothemes.com/"> 
 $ npm install
 ``` 
 
-To download dependencies and run 
+After downloading dependencies, run 
 
 ```bash
 $ gulp serve
